@@ -1,0 +1,23 @@
+body{
+    color:green;
+  
+}
+
+.left{
+    float:left;
+    width: 40%;
+    background-color: #7fff00;
+    padding-right: 10px;
+    margin-right: 5%;
+}
+.right{
+    float: left;
+    width: 50%;
+    text-align: right;
+    background-color: chartreuse;
+}
+.main{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+}
